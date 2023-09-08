@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This research project aims to critically examine media coverage related to refugee and migration policy in Australia, the United Kingdom, and the United States. With the global refugee crisis intensifying, media narratives play a crucial role in shaping public opinion and, by extension, policy decisions. Our research leverages advanced data analytics, particularly the Newscatcher API, to gather a comprehensive dataset for analysis.
+This research project aims to critically examine media coverage related to refugee and migration policy in Australia, the United Kingdom, and the United States. With the global refugee crisis intensifying, media narratives play a crucial role in shaping public opinion and, by extension, policy decisions. Our research leverages advanced data analytics, particularly the [Newscatcher API](https://www.newscatcherapi.com/), to gather a comprehensive dataset for analysis.
 
 ## Research questions
 
